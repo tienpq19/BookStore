@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 16, 2024, 9:27:12 PM
+    Author     : TienP
+*/
+select {
+    border: 1px solid #ccc; 
+
+}
+.modal .modal-dialog {
+	max-width: 400px;
+}
+.modal .modal-header, .modal .modal-body, .modal .modal-footer {
+	padding: 20px 30px;
+}
+.modal .modal-content {
+	border-radius: 3px;
+	font-size: 14px;
+}
+.modal .modal-footer {
+	background: #ecf0f1;
+	border-radius: 0 0 3px 3px;
+}
+.modal .modal-title {
+	display: inline-block;
+}
+.modal .form-control {
+	border-radius: 2px;
+	box-shadow: none;
+	border-color: #dddddd;
+}
+.modal textarea.form-control {
+	resize: vertical;
+}
+.modal .btn {
+	border-radius: 2px;
+	min-width: 100px;
+}	
+.modal form label {
+	font-weight: normal;
+}
+.row{
+    flex-wrap: nowrap;
+}
+img{
+    height: 100px;
+}
